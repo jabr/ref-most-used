@@ -33,6 +33,10 @@ r.use(o2).use(o2)
 r.promote.promote.has(o1) // #=> false
 ```
 
+## See also
+
+* [weak-value-map](https://github.com/jabr/weak-value-map) - Map using weak object references for values
+
 ## References
 
 * [hashlru](https://github.com/dominictarr/hashlru)
